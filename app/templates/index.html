@@ -1,1 +1,21 @@
-<h1> {{message}} </h1>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    {% if title %}
+    <title> {{ title }}</title>
+    {% else %}
+    <title>Welcome to News Search</title>
+    {% endif %}
+  </head>
+  <body>
+        <!--popular news section -->
+        <h3> POpular News</h3>
+        <ul>
+          {% for popular_news in popular %}
+              <li>{{ popular_news.title}}</li>
+          {% endfor %}
+        </ul>
+    
+  </body>
+</html>
