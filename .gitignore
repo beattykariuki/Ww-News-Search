@@ -1,3 +1,4 @@
-Virtual/
-*.pycvirtual/
+virtual/
+__pycache__/
+*.pyc
 instance/
