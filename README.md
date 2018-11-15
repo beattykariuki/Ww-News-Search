@@ -1,20 +1,62 @@
-# Ww.NEWS HIGHLIGHTS
+# NEWS HIGHLIGHTS
 11/11/2018
 
-#Description
+### Author
+By Betty Kariuki
+
+### Description
 a website that contains various news articles and helps one to get updated on what is going on around the world.
 
-#TECHNOLOGIES USED
-The languages used;
 
-1.HTML for the structure of the app
-2.CSS and Bootstrap 
-3.PYTHON for the back end
+### Prerequisites
 
-#LICENSE
+* An up-tp-date web broswer, preferably Chrome or Mozilla
+*  Git
+
+### TECHNOLOGIES USED
+The languages used
+
+* PYTHON (back end)
+* HTML
+* CSS and Bootstrap 
+
+
+
+### Installation :notebook:
+
+If you want to use this as your template, here's how to go about it:
+
+* Install Git on you machine
+
+* Maneouver to 'clone or download' button and get the link
+
+* --Linux Users-- open your terminal and run the 'git clone ...' command in a directory of your choice
+
+* --for Windows Users-- Navigate to the location you'd want the repository located, right click and select "git bash here"
+
+* Clone the repository
+
+
+
+## LICENSE
 
 MIT License
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-Persion is granted to anybody obtaining a copy of this software with no limitations to the rights of using it,copying,and modifying,merging,and distributing of the Software.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 Copyright(c)2018 BETTY KARIUKI
