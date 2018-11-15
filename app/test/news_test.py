@@ -10,6 +10,15 @@ class NewsTest(.TestCase):
     def test_instance(self):
         self.assertTrue(isinstance(self.new_news,News))
 
+class NewsTest(.TestCase):
+
+    def setUp(self):
+      self.new_news = News(null, 'Australia\'s most trusted source of local, national and world news. Comprehensive, independent, in-depth analysis, the latest business, sport, weather and more.,'
+'
+    def test_instance(self):
+        self.assertTrue(isinstance(self.new_news,News))
+
+
 
 if __name__ == '__main__':
     unnitest.main()
